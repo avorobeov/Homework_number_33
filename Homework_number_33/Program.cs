@@ -15,7 +15,7 @@ namespace Homework_number_33
 
             wordMeaning = FillDictionary(wordMeaning);
 
-            Console.WriteLine("Для получения значения слов напишите слово и нажмите ентер \n" +
+            Console.WriteLine("Для получения значения слов напишите слово и нажмите ентр \n" +
                               $"Для выхода напишите команду {CommandExit}");
 
             while (isExit == false)
